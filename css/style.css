@@ -1,0 +1,109 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    color: darksalmon;
+}
+
+h1{
+    font-size: 150px;
+    color: rgb(112, 47, 24);
+    font-style: oblique;
+    font-variant: small-caps;
+}
+
+body{
+    background-image: url('../img/bg.jpg');
+    background-repeat: repeat;
+    background-size: 100%;
+    background-color: #ffefd5;
+}
+
+a:hover{
+    color: cornflowerblue;
+    letter-spacing: 10px;
+    font-size: large;
+}
+
+hr{
+    color: lightsalmon;
+}
+
+div{
+    border-radius: 10px;
+    border-color: lightsalmon;
+    border-style: none;
+    margin: 25px;
+    padding: 25px;
+    font-size: large;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 150%;
+    background-color: wheat;
+    padding: 20px;
+}
+
+.list-container{
+    background-color: mistyrose;
+}
+
+#Spring{
+    color: olivedrab;
+}
+
+#Summer{
+    color: cornflowerblue;
+}
+
+#Autumn{
+    color: peru;
+}
+
+#Winter{
+    color: cornsilk;
+}
+
+#Main{
+    color: antiquewhite;
+}
+
+ol{
+    color: lightsalmon;
+}
+
+.spring-div{
+    background-color: rgb(181, 222, 98);
+    width: 10%;
+    height: 10%;
+}
+
+.summer-div{
+    background-color: rgb(159, 192, 254);
+    width: 9%;
+    height: 11.5%;
+    position: absolute;
+    top: 67.5%;
+    left: 28%;
+}
+
+.autumn-div{
+    background-color: rgb(240, 177, 113);
+    width: 9%;
+    height: 11.5%;
+    position: absolute;
+    top: 67.5%;
+    left: 52.5%;
+}
+
+.winter-div{
+    background-color: rgb(231, 222, 185);
+    width: 9%;
+    height: 11.5%;
+    position: absolute;
+    top: 67.5%;
+    left: 75%;
+}
+
+a:visited{
+    color: pink;
+}
